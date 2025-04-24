@@ -26,5 +26,5 @@ function change() {
 
 function reset() {
     value.innerText = 0;
-    document.querySelector("input").value = 1;
+    inpNum.value = 1;
 };
